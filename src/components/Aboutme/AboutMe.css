@@ -1,0 +1,15 @@
+.goal{
+    padding-top: 150px;
+   
+}
+.aboutme{
+    width: 90%;
+    margin: auto;
+    height: 100vh;
+}
+@media (max-width:660px) {
+    .goal{
+        padding-top: 50px;
+       
+    }
+}

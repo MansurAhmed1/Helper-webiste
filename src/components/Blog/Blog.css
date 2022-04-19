@@ -1,0 +1,9 @@
+.main{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.main>div{
+    border: 1px solid black;
+    text-align: start;
+    padding: 0px 3px;
+}

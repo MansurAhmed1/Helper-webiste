@@ -1,0 +1,22 @@
+
+.details{
+
+  text-align: center;
+}
+.tutuor{
+  margin-top: 150px; 
+  /* color: rgb(173, 64, 24); */
+}
+.first-item{
+  background-color: rgba(169, 169, 169, 0.123);
+ /* background-color: rgba(238, 130, 238, 0.169); */
+ 
+
+
+}
+@media (max-width:660px) {
+  .tutuor{
+    margin-top: 50px; 
+ 
+  }
+}
